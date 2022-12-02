@@ -1,0 +1,11 @@
+[header]
+title = "Bye"
+author = "m1cha1s"
+
+[[slide]]
+title = "slide 1"
+contents = "The big brown fox jumps over the lazy dog"
+
+[[slide]]
+title = "slide 2"
+contents = "Ala ma kota"
