@@ -10,3 +10,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 build/
+
+
+# Added by cargo
+
+/target
